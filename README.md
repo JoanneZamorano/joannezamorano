@@ -1,10 +1,9 @@
 ## Hello World!! Mi nombre es Joanne 👋
 + 😄 2022-2024 - FPGM Sistemas Microinformáticos y Redes.
 + 🌱 2025 - Actualmente estudio el FPGS Desarrollo de Aplicaciones Multiplataforma + Máster de especialización de Data Analytics.
-      - java
-      - ⚡Java
-      - ⚡Python
-      - ⚡HTML+CSS+JavaScript
+      ⚡Java
+      ⚡Python
+      ⚡HTML+CSS+JavaScript
 
 
 <!--
