@@ -1,4 +1,7 @@
-## Hello World!! Mi nombre es Joanne 👋
+<div>
+      <h1 align="center">Hello World!! Mi nombre es Joanne 👋</h1>
+</div>
+## Sobre mi
 + 😄 2022-2024 - FPGM Sistemas Microinformáticos y Redes.
 + 🌱 2025 - Actualmente estudio el FPGS Desarrollo de Aplicaciones Multiplataforma + Máster de especialización de Data Analytics.
       ⚡Java
