@@ -27,6 +27,13 @@
 
 ## Certificados
 <p>En cuanto los tenga los subo XD</p>
+
+## 
+
+<footer align="center">
+      <sub><p align="center">2025 · Built with 💕 by Joanne Zamorano</p></sub>
+</footer>
+
 <!--
 **JoanneZamorano/joannezamorano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
