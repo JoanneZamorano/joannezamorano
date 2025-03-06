@@ -2,19 +2,25 @@
       <h1 align="center">Hello World!! Mi nombre es Joanne 👋</h1>
 </div>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=23&pause=1000&width=600&lines=Desarrolladora+Aplicaciones+Multiplataforma)](https://git.io/typing-svg)
+
 ## Sobre mi
 
-+ 😄 2022-2024 - FPGM Sistemas Microinformáticos y Redes.
-+ 🌱 2025 - Actualmente estudio el FPGS Desarrollo de Aplicaciones Multiplataforma + Máster de especialización de Data Analytics.
-+ ⚡Java
-      ⚡Python
-      ⚡HTML+CSS+JavaScript
+- 😄 2022-2024 - FPGM Sistemas Microinformáticos y Redes.
+- 🌱 2025 - Actualmente estudio el FPGS Desarrollo de Aplicaciones Multiplataforma + Máster de especialización de Data Analytics.
+  - ⚡Java
+  - ⚡Python
+  - ⚡HTML+CSS+JavaScript
+ 
+## Lenguajes 
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=50&duration=1000&pause=50&color=F75151&background=FF000000&vCenter=true&width=600&height=68&lines=Java;Python;JavaScript)](https://git.io/typing-svg)
 
 ## GitHub Stats
 <p>En proceso</p>
 
-![joannezamorano's Stats](https://github-readme-stats.vercel.app/api?username=joannezamorano&theme=radical&show_icons=true&hide_border=true&count_private=true)
-![joannezamorano's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joannezamorano&theme=radical&show_icons=true&hide_border=true&layout=compact)
+![joannezamorano's Stats](https://github-readme-stats.vercel.app/api?username=joannezamorano&theme=vue&show_icons=true&hide_border=true&count_private=true)
+![joannezamorano's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joannezamorano&theme=vue&show_icons=true&hide_border=true&layout=compact)
 
 <!--
 **JoanneZamorano/joannezamorano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
