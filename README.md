@@ -1,5 +1,5 @@
 ## Hello World!! Mi nombre es Joanne 👋
-
+🌱 Actualmente estudio el FPGS Desarrollo de Aplicaciones Multiplataforma + Máster de especialización de Data Analytics
 <!--
 **JoanneZamorano/joannezamorano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
