@@ -1,8 +1,13 @@
 ## Hello World!! Mi nombre es Joanne 👋
-🌱 Actualmente estudio el FPGS Desarrollo de Aplicaciones Multiplataforma + Máster de especialización de Data Analytics
+😄 2022-2024 - FPGM Sistemas Microinformáticos y Redes.
+🌱 2025 - Actualmente estudio el FPGS Desarrollo de Aplicaciones Multiplataforma + Máster de especialización de Data Analytics.
+      ⚡Java
+      ⚡Python
+      ⚡HTML+CSS+JavaScript
+
+
 <!--
 **JoanneZamorano/joannezamorano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
