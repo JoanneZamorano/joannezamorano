@@ -6,10 +6,15 @@
 
 + 😄 2022-2024 - FPGM Sistemas Microinformáticos y Redes.
 + 🌱 2025 - Actualmente estudio el FPGS Desarrollo de Aplicaciones Multiplataforma + Máster de especialización de Data Analytics.
-      ⚡Java
++ ⚡Java
       ⚡Python
       ⚡HTML+CSS+JavaScript
 
+## GitHub Stats
+<p>En proceso</p>
+![joannezamorano's Stats](https://github-readme-stats.vercel.app/api?username=joannezamorano&theme=radical&show_icons=true&hide_border=true&count_private=true)
+![joannezamorano's Streak](https://github-readme-streak-stats.herokuapp.com/?user=joannezamorano&theme=radical&hide_border=true)
+![joannezamorano's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joannezamorano&theme=radical&show_icons=true&hide_border=true&layout=compact)
 
 <!--
 **JoanneZamorano/joannezamorano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
