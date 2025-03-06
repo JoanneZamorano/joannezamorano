@@ -14,7 +14,7 @@
  
 ## Lenguajes 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=50&duration=1000&pause=50&color=F75151&background=FF000000&vCenter=true&width=600&height=68&lines=Java;Python;JavaScript)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=50&duration=1000&pause=50&color=F75151&background=FF000000&vCenter=true&width=600&height=68&lines=Java;Python;JavaScript;SQL;NoSQL)](https://git.io/typing-svg)
 
 ## GitHub Analytics
 <p>En proceso... Sigo aprendiendo ^^</p>
