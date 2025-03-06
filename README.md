@@ -2,7 +2,7 @@
       <h1 align="center">Hello World!! Mi nombre es <a href="https://github.com/JoanneZamorano">Joanne Zamorano<a>👋</h1>
 </div>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=23&pause=1000&width=600&lines=Desarrolladora+Aplicaciones+Multiplataforma)](https://git.io/typing-svg)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=23&pause=1000&width=600&lines=Desarrolladora+Aplicaciones+Multiplataforma)
 
 ## Sobre mi
 
@@ -14,7 +14,7 @@
  
 ## Lenguajes 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=50&duration=1000&pause=50&color=F75151&background=FF000000&vCenter=true&width=600&height=68&lines=Java;Python;JavaScript;SQL;NoSQL)](https://git.io/typing-svg)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=50&duration=1000&pause=50&color=F75151&background=FF000000&vCenter=true&width=600&height=68&lines=Java;Python;JavaScript;SQL;NoSQL)
 
 ## GitHub Analytics
 <p>En proceso... Sigo aprendiendo ^^</p>
