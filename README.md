@@ -15,31 +15,31 @@ public class PresentacionPersonal {
 
         String nombre = "Joanne";
         String apellido = "Zamorano";
-        String descripcion = "Soy técnica informática y actualmente estudio DAM, especializandome con un Máster de Data";
+        String descripcion = "Soy técnica informática y actualmente estudio DAM";
         String localidad = "Madrid/Guadalajara (España)";
         String contacto = "info.joazamorano@gmail.com";
 
         String[] estudios = {
             "(2022 - 2024) FPGM Sistemas Microinformáticos y Redes",
-            "(2024 - 2026) FPGS Desarrollo Aplicaciones Miltiplataforma"
+            "(2024 - actual) FPGS Desarrollo Aplicaciones Miltiplataforma"
         };
 
         System.out.println("¡Hola! Mi nombre es " + nombre + " " + apellido + "." + descripcion + ".");
-        System.out.println("Vivo en " + localidad + ". "Puedes escribirme en este email: " + contacto);
+            System.out.println("Vivo en " + localidad + ". Puedes escribirme en este email: " + contacto);
 
-        System.out.println("\nMis estudios de Formación Profesional de Grado Medio (FPGM) y Grado Superior (FPGS) son:");
+        System.out.println("\nMis estudios son:");
         for (String estudio : estudios) {
             System.out.println("- " + estudio);
         }
     }
 }
 ------------------------------------------------------------------------------------------
-¡Hola! Mi nombre es Joanne Zamorano. Soy técnica informática y actualmente estudio DAM, especializandome con un Máster de Data.
+¡Hola! Mi nombre es Joanne Zamorano.Soy técnica informática y actualmente estudio DAM.
 Vivo en Madrid/Guadalajara (España). Puedes escribirme en este email: info.joazamorano@gmail.com
 
-Mis estudios de Formación Profesional de Grado Medio (FPGM) y Grado Superior (FPGS) son:
-- (2022 - 2024) FPGM Sistemas Microinformáticos y Redes 
-- (2024 - 2026) FPGS Desarrollo Aplicaciones Miltiplataforma 
+Mis estudios son:
+- (2022 - 2024) FPGM Sistemas Microinformáticos y Redes
+- (2024 - actual) FPGS Desarrollo Aplicaciones Miltiplataforma
 
 ```
 
