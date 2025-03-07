@@ -14,7 +14,7 @@
 ## Lenguajes y Tecnologías
 <div align="center">
       
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=70&size=50&duration=2000&pause=70&color=F75151&background=FF000000&center=true&vCenter=true&width=300&height=68&lines=Java;Python;HTML5;CSS3;JavaScript;SQL;NoSQL) ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=70&size=50&duration=2000&pause=70&color=162831FF&background=FF000000&center=true&vCenter=true&width=400&height=68&lines=IntelliJ+IDEA;PyCharm;VSCode;Git+GitHub) ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=70&size=50&duration=2000&pause=70&color=6ECBF7FF&background=FF000000&center=true&vCenter=true&width=250&height=68&lines=GitHub) 
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=70&size=40&duration=3000&pause=70&color=F75151&background=FF000000&center=true&vCenter=true&width=250&height=68&lines=Java;Python;HTML5;CSS3;JavaScript;SQL;NoSQL) ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=70&size=40&duration=3000&pause=70&color=162831FF&background=FF000000&center=true&vCenter=true&width=330&height=68&lines=IntelliJ+IDEA;PyCharm;VSCode) ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=70&size=40&duration=3000&pause=70&color=6ECBF7FF&background=FF000000&center=true&vCenter=true&width=250&height=68&lines=GitHub) 
       
 </div>
 
