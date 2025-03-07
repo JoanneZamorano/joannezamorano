@@ -8,8 +8,41 @@
             
 
 ## Sobre mi
-- 😄 2022-2024 - FPGM Sistemas Microinformáticos y Redes.
-- 🌱 2025 - Actualmente estudio el FPGS Desarrollo de Aplicaciones Multiplataforma + Máster de especialización de Data Analytics.
+```java
+public class PresentacionPersonal {
+
+    public static void main(String[] args) {
+
+        String nombre = "Joanne";
+        String apellido = "Zamorano";
+        String descripcion = "Soy técnica informática y actualmente estudio DAM, especializandome con un Máster de Data";
+        String localidad = "Madrid/Guadalajara (España)";
+        String contacto = "info.joazamorano@gmail.com";
+
+        String[] estudios = {
+            "(2022 - 2024) FPGM Sistemas Microinformáticos y Redes",
+            "(2024 - 2026) FPGS Desarrollo Aplicaciones Miltiplataforma"
+        };
+
+        System.out.println("¡Hola! Mi nombre es " + nombre + " " + apellido + "." + descripcion + ".");
+        System.out.println("Vivo en " + localidad + ". "Puedes escribirme en este email: " + contacto);
+
+        System.out.println("\nMis estudios de Formación Profesional de Grado Medio (FPGM) y Grado Superior (FPGS) son:");
+        for (String estudio : estudios) {
+            System.out.println("- " + estudio);
+        }
+    }
+}
+------------------------------------------------------------------------------------------
+¡Hola! Mi nombre es Joanne Zamorano. Soy técnica informática y actualmente estudio DAM, especializandome con un Máster de Data.
+Vivo en Madrid/Guadalajara (España). Puedes escribirme en este email: info.joazamorano@gmail.com
+
+Mis estudios de Formación Profesional de Grado Medio (FPGM) y Grado Superior (FPGS) son:
+- (2022 - 2024) FPGM Sistemas Microinformáticos y Redes 
+- (2024 - 2026) FPGS Desarrollo Aplicaciones Miltiplataforma 
+
+```
+
  
 ## Lenguajes y Tecnologías
 <div align="center">
@@ -26,6 +59,7 @@
 ![joannezamorano's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joannezamorano&theme=vue&show_icons=true&hide_border=true&layout=compact)
 ![joannezamorano's Stats](https://github-readme-stats.vercel.app/api?username=joannezamorano&theme=vue&show_icons=true&hide_border=true&count_private=true)
 </div>
+
 
 
 ## Certificados
