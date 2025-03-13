@@ -56,8 +56,9 @@ Mis estudios son:
 <p>En proceso... Sigo aprendiendo ^^</p>
 <div align="center">
       
-![joannezamorano's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joannezamorano&theme=vue&show_icons=true&hide_border=true&layout=compact)
-![joannezamorano's Stats](https://github-readme-stats.vercel.app/api?username=joannezamorano&theme=vue&show_icons=true&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=joannezamorano&theme=default&show_icons=true&hide_border=true&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=joannezamorano&theme=default&show_icons=true&hide_border=true&count_private=true)
+      
 </div>
 
 
