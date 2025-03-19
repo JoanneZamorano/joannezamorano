@@ -21,7 +21,7 @@ public class PresentacionPersonal {
 
         String[] estudios = {
             "(2022 - 2024) FPGM Sistemas Microinformáticos y Redes",
-            "(2024 - actual) FPGS Desarrollo Aplicaciones Miltiplataforma"
+            "(2024 - actual) FPGS Desarrollo Aplicaciones Multiplataforma"
         };
 
         System.out.println("¡Hola! Mi nombre es " + nombre + " " + apellido + "." + descripcion + ".");
@@ -39,7 +39,7 @@ Vivo en Madrid/Guadalajara (España). Puedes escribirme en este email: info.joaz
 
 Mis estudios son:
 - (2022 - 2024) FPGM Sistemas Microinformáticos y Redes
-- (2024 - actual) FPGS Desarrollo Aplicaciones Miltiplataforma
+- (2024 - actual) FPGS Desarrollo Aplicaciones Multiplataforma
 
 ```
 
