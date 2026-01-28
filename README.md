@@ -14,8 +14,8 @@ about_me = {
     "localidad": "Madrid/Guadalajara",
     "email": "info.joazamorano@gmail.com",
     "estudios": {
-        "FP Grado Medio": "FPGM Sistemas Microinformáticos y Redes"
-        "FP Grado Superior": "FPGS Desarrollo Aplicaciones Multiplataforma",
+        "FP Grado Medio": "(SMR) Sistemas Microinformáticos y Redes",
+        "FP Grado Superior": "(DAM) Desarrollo Aplicaciones Multiplataforma"
       }
 }
 ```
