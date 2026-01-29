@@ -28,7 +28,7 @@ about_me = {
 
 <div align="center">
       
-[![My Skills](https://skillicons.dev/icons?i=html,css,figma,git,github,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=idea,vscode,git,github,figma,html,css)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=java,py,js,react,vite,wordpress)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=mongodb,postman,nodejs,mysql)](https://skillicons.dev)
 </div>
