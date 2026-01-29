@@ -22,10 +22,15 @@ about_me = {
 
  
 ## Lenguajes y Tecnologías
+<!--<div align="center">
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=50&size=20&duration=3000&pause=70&color=F75151&background=FF000000&center=true&vCenter=true&width=250&height=68&lines=Java;Python;HTML5+CSS3;JavaScript;MySQL;NoSQL) ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=70&color=162831FF&background=FF000000&center=true&vCenter=true&width=330&height=68&lines=IntelliJ+IDEA;PyCharm;VSCode) ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=50&size=20&duration=3000&pause=70&color=6ECBF7FF&background=FF000000&center=true&vCenter=true&width=250&height=68&lines=GitHub) 
+</div>-->
+
 <div align="center">
       
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=50&size=20&duration=3000&pause=70&color=F75151&background=FF000000&center=true&vCenter=true&width=250&height=68&lines=Java;Python;HTML5+CSS3;JavaScript;MySQL;NoSQL) ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=70&color=162831FF&background=FF000000&center=true&vCenter=true&width=330&height=68&lines=IntelliJ+IDEA;PyCharm;VSCode) ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=50&size=20&duration=3000&pause=70&color=6ECBF7FF&background=FF000000&center=true&vCenter=true&width=250&height=68&lines=GitHub) 
-      
+[![My Skills](https://skillicons.dev/icons?i=html,css,figma,git,github,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,py,js,react,vite,wordpress)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mongodb,postman,nodejs,mysql)](https://skillicons.dev)
 </div>
 
 
