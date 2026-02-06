@@ -33,14 +33,14 @@ about_me = {
 [![My Skills](https://skillicons.dev/icons?i=mongodb,postman,nodejs,mysql)](https://skillicons.dev)
 </div>
 
-
+<!--
 ## GitHub Analytics
 <div align="center">
       
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=joannezamorano&theme=default&show_icons=true&hide_border=true&layout=compact)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=joannezamorano&theme=default&show_icons=true&hide_border=true&count_private=true)
       
-</div>
+</div>-->
 
 
 
