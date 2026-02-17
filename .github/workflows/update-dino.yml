@@ -2,21 +2,23 @@ name: Generate Dino Animation
 
 on:
   schedule:
-    - cron: "0 */24 * * *" 
-  workflow_dispatch: 
+    - cron: "0 */24 * * *" # Se ejecuta cada 24 horas
+  workflow_dispatch: # Permite que tú lo actives a mano cuando quieras
 
 jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
+      # Genera el dinosaurio usando tus contribuciones
       - uses: Platane/snk@v3
-       with:
+        with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-snake.svg?color_snake=#555555&snake_type=dino
             dist/github-snake-dark.svg?palette=github-dark&color_snake=#888888&snake_type=dino
-            
-      - name: Push to output branch
+
+      # Guarda la imagen en la rama "output" para que se pueda ver
+      - name: Push github-snake.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
