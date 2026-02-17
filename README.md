@@ -39,10 +39,8 @@ about_me = {
       
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=joannezamorano&theme=default&show_icons=true&hide_border=true&layout=compact)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=joannezamorano&theme=default&show_icons=true&hide_border=true&count_private=true)
-      
-</div>-->
-
 ## My Contribution Graph
+</div>-->
 
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JoanneZamorano/joannezamorano/output/pacman-contribution-graph-dark.svg">
