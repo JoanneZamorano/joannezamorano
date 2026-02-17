@@ -42,7 +42,7 @@ about_me = {
       
 </div>-->
 
-
+![Mi Dino Animado](https://raw.githubusercontent.com/JoanneZamorano/JoanneZamorano/output/github-snake.svg?v=1)
 
 <footer align="center">
       <sub><p align="center">✨ 2025 · Built with 💕 by Joanne Zamorano ✨</p></sub>
