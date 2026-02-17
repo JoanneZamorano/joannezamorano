@@ -42,7 +42,13 @@ about_me = {
       
 </div>-->
 
-![Mi Dino Animado](https://raw.githubusercontent.com/JoanneZamorano/JoanneZamorano/output/github-snake.svg?v=1)
+## My Contribution Graph
+
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JoanneZamorano/joannezamorano/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JoanneZamorano/joannezamorano/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/JoanneZamorano/joannezamorano/output/pacman-contribution-graph.svg">
+</picture>
 
 <footer align="center">
       <sub><p align="center">✨ 2025 · Built with 💕 by Joanne Zamorano ✨</p></sub>
