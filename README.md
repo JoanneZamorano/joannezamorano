@@ -20,6 +20,12 @@ about_me = {
 }
 ```
 
+### 📚 Mi Cuaderno de Aprendizaje
+
+Mi **segundo cerebro** técnico: apuntes interactivos, atajos y soluciones a errores en tiempo real. 
+
+[![Mi Dev-Book](https://img.shields.io/badge/MI_DEV_BOOK-VISITAR_CUADERNO-1a1a24?style=for-the-badge&logo=gitbook&logoColor=white&labelColor=00b4d8)](https://joannezamorano.github.io/dev-book/)
+[![Repositorio GitHub](https://img.shields.io/badge/REPOSITORIO_GITHUB-SI_TE_AYUDA_DALE_UNA_ESTRELLA_%E2%AD%90-1a1a24?style=for-the-badge&logo=github&logoColor=1a1a24&labelColor=f7df1e)](https://github.com/JoanneZamorano/dev-book)
  
 ## Lenguajes y Tecnologías
 <!--<div align="center">
